@@ -28,31 +28,31 @@ API: [https://covid19-merlin.vercel.app/api/world](https://covid19-merlin.vercel
         startDate: {
           "date": "2020-01-03T00:00:00.000Z"
         },
-    today: {
-      "Confirmed": 33950,
-      "Cumulative_Confirmed": 761071826,
-      "Cumulative_Deaths": 6879677,
-      "Deaths": 198
-    },
-    totals: {
-      "Avg7Case": 760835532.302058,
-      "Avg7CasePop": 4758814.299999877,
-      "Avg7Death": 6878075.49800127,
-      "Avg7DeathPop": 23850.199999999204,
-      "Cases_Last_7_Days": 5325809808,
-      "Cases_Last_7_Days_Change": 8616467.82999984,
-      "Cases_Per_Hundred_Thousand": 2099492668.3189237,
-      "Confirmed": 761071826,
-      "Cumulative_Confirmed": 331038930687,
-      "Cumulative_Deaths": 4498882227,
-      "Deaths": 6879677,
-      "Deaths_Last_7_Days": 48145569,
-      "Deaths_Last_7_Days_Change": 3646441.610000062,
-      "Deaths_Per_Hundred_Thousand": 17945935.386000104,
-      "WkCasePop": 33381261.879000094,
-      "WkDeathPop": 204494.71099999917
+        today: {
+          "Confirmed": 33950,
+          "Cumulative_Confirmed": 761071826,
+          "Cumulative_Deaths": 6879677,
+          "Deaths": 198
+        },
+        totals: {
+          "Avg7Case": 760835532.302058,
+          "Avg7CasePop": 4758814.299999877,
+          "Avg7Death": 6878075.49800127,
+          "Avg7DeathPop": 23850.199999999204,
+          "Cases_Last_7_Days": 5325809808,
+          "Cases_Last_7_Days_Change": 8616467.82999984,
+          "Cases_Per_Hundred_Thousand": 2099492668.3189237,
+          "Confirmed": 761071826,
+          "Cumulative_Confirmed": 331038930687,
+          "Cumulative_Deaths": 4498882227,
+          "Deaths": 6879677,
+          "Deaths_Last_7_Days": 48145569,
+          "Deaths_Last_7_Days_Change": 3646441.610000062,
+          "Deaths_Per_Hundred_Thousand": 17945935.386000104,
+          "WkCasePop": 33381261.879000094,
+          "WkDeathPop": 204494.71099999917
+        }
     }
-  }
 }
 ```
 
