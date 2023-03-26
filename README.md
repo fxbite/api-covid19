@@ -70,7 +70,7 @@ API:  [https://covid19-merlin.vercel.app/api/countries](https://covid19-merlin.v
     dataFormat: [
         {
           "CountryCode": "US",
-          "CountryName": "United States of America",
+          "CountryName": "United States",
           "Confirmed": 102544598,
           "Deaths": 1114970,
           "Recovered": 101429628,
